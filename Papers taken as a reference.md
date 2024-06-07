@@ -20,3 +20,12 @@
 3) **Proposed Method / Algorithm  :**  A network topology pruning approach by formulating the network topology pruning problem as the regularized version of the **fastest mixing Markov-chain (FMMC) problem**
 4) **Compared Approcahes          :**
    1. combined methods as pruning and compression 
+```
+# Third Paper is Matched with our Idea But It was not published yet to any other Journels
+```
+1) **Paper Title                  :**  OCD-FL: A Novel Communication-Efficient Peer Selection-based Decentralized Federated Learning
+2) **Published Journel & Year     :**  ArXiv 2024
+3) **Proposed Method / Algorithm  :**  The goal is to efficiently select neighbors for collaboration taking into account the **amount of energy required for transmission as well as the 
+                                       knowledge gained by neighbors** as a result of the collaboration.
+4) **Compared Approcahes          :**
+   1. No Major Comparisons 
