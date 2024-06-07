@@ -28,4 +28,15 @@
 3) **Proposed Method / Algorithm  :**  The goal is to efficiently select neighbors for collaboration taking into account the **amount of energy required for transmission as well as the 
                                        knowledge gained by neighbors** as a result of the collaboration.
 4) **Compared Approcahes          :**
-   1. No Major Comparisons 
+   1. No Major Comparisons
+  
+```
+Seminal Work \ Paper \ Root Paper for all the Publications
+```
+1) **Paper Title                  :**  FASTEST MIXING MARKOV CHAIN ON A GRAPH
+2) **Published Journel & Year     :**  Published in SIAM Review 2004 Mathematics
+3) **Proposed Method / Algorithm  :**  The problem of assigning probabilities to the edges of the graph in such a way as to minimize the SLEM, i.e., the problem of finding the **fastest 
+                                       mixing Markov chain on the graph**.
+4) **Compared Approcahes          :**
+   1.  We compare the fastest mixing Markov chain to those obtained using two commonly used heuristics: **The maximum-degree method**, and **The Metropolis-Hastings algorithm**.
+
