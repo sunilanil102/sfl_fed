@@ -40,3 +40,11 @@ Seminal Work \ Paper \ Root Paper for all the Publications
 4) **Compared Approcahes          :**
    1.  We compare the fastest mixing Markov chain to those obtained using two commonly used heuristics: **The maximum-degree method**, and **The Metropolis-Hastings algorithm**.
 
+1) **Paper Title                  :**  Fast linear iterations for distributed averaging 
+2) **Published Journel & Year     :**  Systems & Control Letters 53 (2004)
+3) **Proposed Method / Algorithm  :**  speed up interior-point methods for solving the fastest distributed linear iteration problem, for networks with up to a thousand or so edges.
+4) **Compared Approcahes          :**
+   1.  **Maximum-degree**
+   2.  **Local-degree**
+   3.  **Best constant**
+   4.  **Optimal symmetric**
