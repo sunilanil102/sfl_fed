@@ -35,13 +35,23 @@
 # Fourth Paper is Matched with our Idea 
 ```
 1) **Paper Title                  :**  Joint Consensus Matrix Design and Resource Allocation for Decentralized Learning
-2) **Published Journel & Year     :**  IFIP Networking Conference (IFIP Networking), Catania, Italy, 2022, 
+2) **Published Journel & Year     :**  IFIP Networking Conference (IFIP Networking), Catania, Italy, 2022.
 3) **Proposed Method / Algorithm  :**  The aim of this paper is to accelerate the training process of decentralized ML via joint sparse consensus weight matrix design and communication resource allocation. They propose a novel Communication-Efficient Network Topology (CENT) Algorithm
 4) **Compared Approcahes          :**
    1. **Fast linear iterations for distributed averaging (FDLA)  :** The weights are calculated by solving the spectral norm minimization problem. It gives the fastest convergence rate in terms of the number of training iterations.
    2. **Max-degree:** Assign all edges the same weight based on the maximum degree of the graph.
    3. **Metropolis:** Assign each edge a weight based on the maximum degree of its two adjacent workers.
    4. **Best-constant:** Assign all edges the same optimal constant weight based on the eigenvalues of the Laplacian matrix of the graph
+```
+# Fifth Paper is Matched with our Idea 
+```
+1) **Paper Title                  :**  Laplacian Matrix Sampling for Communication- Efficient Decentralized Learning
+2) **Published Journel & Year     :**  IEEE Journal on Selected Areas in Communications April, 2023.
+3) **Proposed Method / Algorithm  :**  The paper proposed a framework and efficient algorithms to design the communication patterns through Laplacian matrix sampling (LMS), which governs not only which nodes should communicate with each other but also what weights the communicated parameters should carry during parameter aggregation.
+4) **Compared Approcahes          :**
+   1. **Vanilla D-PSGD**  :
+   2. **MATCHA** : matching decomposition sampling.
+
 ```
 Seminal Work \ Paper \ Root Paper for all the Publications
 ```
