@@ -39,6 +39,9 @@ Seminal Work \ Paper \ Root Paper for all the Publications
                                        mixing Markov chain on the graph**.
 4) **Compared Approcahes          :**
    1.  We compare the fastest mixing Markov chain to those obtained using two commonly used heuristics: **The maximum-degree method**, and **The Metropolis-Hastings algorithm**.
+```
+Seminal Work on Distributed Averaging 
+```
 
 1) **Paper Title                  :**  Fast linear iterations for distributed averaging 
 2) **Published Journel & Year     :**  Systems & Control Letters 53 (2004)
