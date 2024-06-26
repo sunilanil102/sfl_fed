@@ -19,7 +19,9 @@
 2) **Published Journel & Year     :**  IEEE INTERNET OF THINGS JOURNAL, VOL. 11, NO. 6, 15 MARCH 2024
 3) **Proposed Method / Algorithm  :**  A network topology pruning approach by formulating the network topology pruning problem as the regularized version of the **fastest mixing Markov-chain (FMMC) problem**
 4) **Compared Approcahes          :**
-   1. combined methods as pruning and compression 
+   1. combined methods as pruning and compression
+
+
 ```
 # Third Paper is Matched with our Idea But It was not published yet to any other Journels
 ```
@@ -29,14 +31,24 @@
                                        knowledge gained by neighbors** as a result of the collaboration.
 4) **Compared Approcahes          :**
    1. No Major Comparisons
+```
+# Fourth Paper is Matched with our Idea 
+```
+1) **Paper Title                  :**  Joint Consensus Matrix Design and Resource Allocation for Decentralized Learning
+2) **Published Journel & Year     :**  IFIP Networking Conference (IFIP Networking), Catania, Italy, 2022, 
+3) **Proposed Method / Algorithm  :**  The aim of this paper is to accelerate the training process of decentralized ML via joint sparse consensus weight matrix design and communication resource allocation. They propose a novel Communication-Efficient Network Topology (CENT) Algorithm
+4) **Compared Approcahes          :**
+   **1. FDLA :** The weights are calculated by solving the spectral norm minimization problem. It gives the fastest convergence rate in terms of the number of training iterations.
+   **2. Max-degree:** Assign all edges the same weight based on the maximum degree of the graph.
+   **3. Metropolis:** Assign each edge a weight based on the maximum degree of its two adjacent workers.
+   **4. Best-constant:** Assign all edges the same optimal constant weight based on the eigenvalues of the Laplacian matrix of the graph
   
 ```
 Seminal Work \ Paper \ Root Paper for all the Publications
 ```
 1) **Paper Title                  :**  FASTEST MIXING MARKOV CHAIN ON A GRAPH
 2) **Published Journel & Year     :**  Published in SIAM Review 2004 Mathematics
-3) **Proposed Method / Algorithm  :**  The problem of assigning probabilities to the edges of the graph in such a way as to minimize the SLEM, i.e., the problem of finding the **fastest 
-                                       mixing Markov chain on the graph**.
+3) **Proposed Method / Algorithm  :**  The problem of assigning probabilities to the edges of the graph in such a way as to minimize the SLEM, i.e., the problem of finding the **fastest mixing Markov chain on the graph**.
 4) **Compared Approcahes          :**
    1.  We compare the fastest mixing Markov chain to those obtained using two commonly used heuristics: **The maximum-degree method**, and **The Metropolis-Hastings algorithm**.
 ```
