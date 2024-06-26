@@ -10,7 +10,6 @@
    1. Metropolis–Hastings
    2. Sum-weight gossip based consensus algorithms perform model aggregation according to the degree of a device.
    3. Laplacian-based constant consensus computes the aggregation weight according to the Laplacian matrix of the entire network.
-
 ```
 # Second Paper
 ```
@@ -51,7 +50,7 @@
 4) **Compared Approcahes          :**
    1. **Vanilla D-PSGD**  :
    2. **MATCHA** : matching decomposition sampling.
-
+5) **Code Availability**  : https://github.com/sunilanil102/Laplacian-Matrix-Sampling
 ```
 Seminal Work \ Paper \ Root Paper for all the Publications
 ```
